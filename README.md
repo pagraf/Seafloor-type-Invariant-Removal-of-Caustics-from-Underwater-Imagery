@@ -6,7 +6,12 @@ Code for the paper:
 ```
 [[Paper on arxiv](https://arxiv.org/XXX)]
 
-<img src='imgs/horse2zebra.gif' align="right" width=384>
+You can find the dataset used here: 
+<img src='imgs/caustics_dataset.png' align="center" width=720>
+
+Resulted corrected images:
+<img src='imgs/caustics_dataset.png' align="center" width=720>
+
 
 ## BibTeX
 
