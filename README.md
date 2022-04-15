@@ -6,6 +6,7 @@ Code for the paper:
 ```
 [[Paper on arxiv](https://arxiv.org/XXX)]
 
+<img src='imgs/horse2zebra.gif' align="right" width=384>
 
 ## BibTeX
 
