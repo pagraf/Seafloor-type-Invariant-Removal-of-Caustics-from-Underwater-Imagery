@@ -6,11 +6,13 @@ Code for the paper:
 ```
 [[Paper on arxiv](https://arxiv.org/XXX)]
 
-You can find the dataset used here: 
-<img src='imgs/caustics_dataset.png' align="center" width=720>
+**You can find the dataset used here:** 
 
-Resulted corrected images:
-<img src='imgs/caustics_dataset.png' align="center" width=720>
+<img src='imgs/caustics_dataset.png' align="center" width=420>
+
+**Resulted corrected images:**
+
+<img src='imgs/7.9.png' align="center" width=420>
 
 
 ## BibTeX
