@@ -20,6 +20,12 @@ Code for the paper:
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@xxx{xxx,
-   ,
-}
+@ARTICLE{10172291,
+  author={Agrafiotis, Panagiotis and Karantzalos, Konstantinos and Georgopoulos, Andreas},
+  journal={IEEE Journal of Oceanic Engineering}, 
+  title={Seafloor-Invariant Caustics Removal From Underwater Imagery}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-22},
+  doi={10.1109/JOE.2023.3277168}}
