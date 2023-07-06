@@ -2,9 +2,9 @@
 
 Code for the paper: 
 ```text
-"Seafloor-type Invariant Removal of Caustics from Underwater Imagery and the Release of a New Public Benchmark Dataset", Panagiotis Agrafiotis and Andreas Georgopoulos, XXX, 2022
+"P. Agrafiotis, K. Karantzalos and A. Georgopoulos, "Seafloor-Invariant Caustics Removal From Underwater Imagery," in IEEE Journal of Oceanic Engineering, doi: 10.1109/JOE.2023.3277168."
 ```
-[[Paper on arxiv](https://arxiv.org/XXX)]
+[[Paper in IEEE in Open Access](https://ieeexplore.ieee.org/document/10172291)]
 
 **You can find the dataset used here:** 
 
