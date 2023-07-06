@@ -6,7 +6,7 @@ Code for the paper:
 ```
 [[Paper in IEEE in Open Access](https://ieeexplore.ieee.org/document/10172291)]
 
-**You can find the dataset used here:** 
+**You can find the dataset used here: (https://doi.org/10.5281/zenodo.6467283)
 
 <img src='imgs/caustics_dataset.png' align="center" width=420>
 
