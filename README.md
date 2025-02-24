@@ -1,4 +1,4 @@
-# Seafloor-type-Invariant-Removal-of-Caustics-from-Underwater-Imagery
+![Screenshot from 2025-02-24 11-56-51](https://github.com/user-attachments/assets/a556bd95-051c-41af-8083-998f053b786c)# Seafloor-type-Invariant-Removal-of-Caustics-from-Underwater-Imagery
 
 Code for the paper: 
 
@@ -8,12 +8,7 @@ Code for the paper:
 
 **You can find the dataset used here: (https://doi.org/10.5281/zenodo.6467283)
 
-<img src='imgs/caustics_dataset.png' align="center" width=420>
-
-**Resulted corrected images:**
-
-<img src='imgs/7.9.png' align="center" width=420>
-
+![Screenshot from 2025-02-24 11-56-51](https://github.com/user-attachments/assets/3378ef54-9e05-4a6b-8cbb-38403930d5fa)
 
 ## BibTeX
 
@@ -25,7 +20,8 @@ If you use this code in your research, please cite our paper:
   journal={IEEE Journal of Oceanic Engineering}, 
   title={Seafloor-Invariant Caustics Removal From Underwater Imagery}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-22},
+  volume={48},
+  number={4},
+  pages={1300-1321},
+  keywords={Image reconstruction;Surface waves;Three-dimensional displays;Deep learning;Sun;Image segmentation;Caustics;data set;fully convolutional network;image segmentation;sun flickering;underwater 3-D reconstruction},
   doi={10.1109/JOE.2023.3277168}}
