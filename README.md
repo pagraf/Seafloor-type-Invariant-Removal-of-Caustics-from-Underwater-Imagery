@@ -1,5 +1,3 @@
-![Screenshot from 2025-02-24 11-56-51](https://github.com/user-attachments/assets/a556bd95-051c-41af-8083-998f053b786c)# Seafloor-type-Invariant-Removal-of-Caustics-from-Underwater-Imagery
-
 Code for the paper: 
 
 >P. Agrafiotis, K. Karantzalos and A. Georgopoulos, "Seafloor-Invariant Caustics Removal From Underwater Imagery," in IEEE Journal of Oceanic Engineering, doi: 10.1109/JOE.2023.3277168."
